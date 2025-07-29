@@ -2,7 +2,7 @@
 
 ## Setup
 1. Install Java 11+ and Maven
-2. Install Chrome and ChromeDriver (update path in BaseTest.java if needed)
+2. Install Chrome and ChromeDriver (update path in BaseTest.java)
 3. Import this Maven project into Eclipse
 
 ## Run Tests
